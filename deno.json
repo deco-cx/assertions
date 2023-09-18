@@ -1,0 +1,13 @@
+{
+  "tasks": {},
+  "fmt": {
+    "files": {
+      "exclude": ["README.md"]
+    }
+  },
+  "importMap": "import_map.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  }
+}

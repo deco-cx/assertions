@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "preact-render-to-string": "https://esm.sh/*preact-render-to-string@6.2.0?pin=102",
+    "preact/": "https://esm.sh/preact@10.16.0/",
+    "preact": "https://esm.sh/preact@10.16.0?pin=102",
+    "std/": "https://deno.land/std@0.190.0/"
+  }
+}
